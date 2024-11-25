@@ -1,0 +1,33 @@
+{
+    "genres": [
+      {
+        "name": "Horror",
+        "description": "Horror films aim to elicit fear, dread, and shock from the audience. These movies often involve supernatural elements, monsters, or psychological terror, with dark and suspenseful atmospheres. Themes of survival, isolation, and the unknown are common, and horror films frequently explore human vulnerabilities. Popular subgenres include slasher films, supernatural horror, psychological thrillers, and zombie films. The ultimate goal of horror movies is to disturb or unsettle, often with a twist ending or jump scares that keep viewers on edge."
+      },
+      {
+        "name": "Fantasy",
+        "description": "Fantasy films are set in imaginary worlds where magic, mythical creatures, and extraordinary events are commonplace. These stories often involve epic quests, heroes with magical powers, and mythical beasts. The genre blends elements of folklore, mythology, and imagination, transporting viewers to fantastical realms where the impossible becomes possible. Common themes include the battle between good and evil, coming-of-age journeys, and the triumph of hope and courage. Examples include epic sagas like 'The Lord of the Rings' or 'Harry Potter'."
+      },
+      {
+        "name": "Science Fiction",
+        "description": "Science fiction explores futuristic or speculative concepts based on scientific principles or technology, often set in space or alternate realities. The genre covers a broad range of themes, from space exploration and time travel to dystopian futures and artificial intelligence. Sci-fi films often speculate on the impact of technological advances on society and the human condition. Popular subgenres include cyberpunk, space opera, and post-apocalyptic narratives. Sci-fi films can challenge perceptions of reality and explore what could be possible in the future."
+      },
+      {
+        "name": "Romance",
+        "description": "Romance films center around the development of a romantic relationship between two protagonists. The genre focuses on themes of love, attraction, and emotional connection, often exploring the challenges and obstacles lovers face in their journey. Whether set in contemporary or historical contexts, romance films emphasize emotional depth, chemistry, and personal growth. The genre is known for its heartwarming, idealized portrayals of love, often culminating in a happy ending. Popular examples include romantic comedies, dramas, and historical romances."
+      },
+      {
+        "name": "Mystery",
+        "description": "Mystery films revolve around solving a puzzle or uncovering a hidden truth, typically through investigation, deduction, or logical reasoning. These films feature a central enigma, often involving a crime, disappearance, or mysterious event, and follow characters as they search for clues and piece together the story. The genre emphasizes suspense, intrigue, and problem-solving, keeping the audience engaged as they try to solve the mystery alongside the protagonist. Detective stories, whodunits, and psychological thrillers are popular forms of mystery films."
+      },
+      {
+        "name": "Thriller",
+        "description": "Thriller films are designed to keep the audience on the edge of their seat with suspense, tension, and excitement. The genre often involves high-stakes situations, where protagonists are in life-threatening or perilous scenarios, typically involving crime, conspiracy, or espionage. Thrillers often play with fear, uncertainty, and anticipation, using twists and turns to heighten suspense. They may include elements of action, mystery, and psychological drama, with an emphasis on keeping viewers engaged through unpredictable developments and edge-of-the-seat moments."
+      },
+      {
+        "name": "Documentary",
+        "description": "Documentary films are non-fiction narratives that aim to inform, educate, and raise awareness about real-world events, issues, or individuals. These films often take an in-depth look at a subject, such as historical events, social issues, environmental concerns, or cultural phenomena, and present factual information with varying degrees of artistic interpretation. Documentaries can be investigative, biographical, or observational, and often feature interviews, archival footage, and expert analysis. The genre is valued for its ability to engage and inform audiences while offering insight into real-life topics."
+      }
+    ]
+  }
+  
